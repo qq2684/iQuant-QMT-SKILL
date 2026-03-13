@@ -1,22 +1,10 @@
-# QMT/iQuant Strategy Development Skill
+这是专门针对迅投QMT开发的skill
+有任何疑问可以联系微信GXZQ2024
 
-Welcome to the QMT/iQuant strategy development skill. This resource is designed to help you develop strategies using the QMT/iQuant framework. For any inquiries or support, please reach out to the contact provided below.
+![5dc6f0e6ecfa393f2fefdf61b57a6d5e](https://github.com/user-attachments/assets/b2defd4d-2800-4d60-8375-192ad6d4b63d)
 
-## Contact Information
-- **Name:** 南宫绫妙
-- **Location:** 四川 宜宾
 
-![WeChat QR Code](https://yourwechatqrcodeurl.com)  
+开户优惠信息
 
-## Commission Rate Details
-- **Fusion Interest Rate:** 3.20%
-- **Universal/Credit Account Stock Commission:** 0.85万 free five commission
-- **Account Opening Fee (Shanghai):** 0.1万 free five
-- **Fund ETF:** 0.5万 free five
-- **Convertible Bonds:** 0.5万 free five
-- **National Bond Reverse Repo:** 1折
-- **Options:** 1.7元/张
-- **Hong Kong Stocks:** 万1
-- **Beijing Stock Exchange:** 万1.75
 
-For more information and detailed support, please refer to our documentation or contact us directly.
+<img width="639" height="455" alt="9c44881e60ae038580a0ca670fdf8142" src="https://github.com/user-attachments/assets/025e72a3-ea6c-4c00-a8e7-411b6887d766" />
